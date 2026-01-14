@@ -17,7 +17,7 @@ Basically: “Which websites did I probably sign up for?”
 -  Run:
   python parse.py (probably need to pip install tldextract)
 
-TO DO:
+# TO DO:
 1. RAG + MCP thing
 2. Try ML classification (again)
 3. Maybe read the body of the email for classification
